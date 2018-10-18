@@ -1,1 +1,1 @@
-{"id":"o9qw4z0v9mvserml0dcy","userPhone":"9274008791","protocol":"http","url":"facebook.com","method":"get","successCodes":[200,201],"timeoutSeconds":3}
+{"id":"o9qw4z0v9mvserml0dcy","userPhone":"9274008791","protocol":"https","url":"www.facebook.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":3,"state":"up","lastChecked":1539889731487}
